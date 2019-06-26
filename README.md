@@ -14,10 +14,10 @@ The connection URL is essential in order to get this program running properly. N
 
 To run the application, you will need to run the Driver.java file (located in the gui folder). An executable JAR file has also been added to the project for your convenience. You can use the JAR file as well to run the Amusement Park Database application. 
 
-To view all of the classes within this application, please go to the src folder and then navigate to the gui folder. Testing was also done on the application, which are located in the tests folder. Please ensure that all files are unzipped before running the application.
+To view all of the classes within this application, please go to the src folder and then navigate to the gui folder. Please ensure that all files are unzipped before running the application.
 
 ## Author
-Michael Zachary Loria, Database Final Project Submission
+Michael Zachary Loria
 
 ## Version
 1.0

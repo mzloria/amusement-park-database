@@ -1,5 +1,4 @@
 /*
- * TCSS 445 Spring 2019
  * Amusement Park Database
  */
 

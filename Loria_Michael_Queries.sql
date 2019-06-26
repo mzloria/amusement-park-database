@@ -1,5 +1,4 @@
 /* Michael Zachary Loria	*/
-/* TCSS 445					*/
 /* Databases Project		*/
 /* Amusement Park Database	*/
 /* Queries					*/

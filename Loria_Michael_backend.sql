@@ -1,5 +1,4 @@
 /* Michael Zachary Loria															*/
-/* TCSS 445 Spring 2019																*/
 /* Databases Project																*/
 /* Amusement Park Database															*/
 /* The following code creates the database, the tables and fill tables with data.	*/
